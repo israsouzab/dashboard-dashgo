@@ -6,7 +6,7 @@ export function Header () {
       <Flex
          as='header'
          width='100%'
-         maxWidth={1180}
+         maxWidth={1480}
          height='20'
          marginX='auto'
          marginTop='4'
